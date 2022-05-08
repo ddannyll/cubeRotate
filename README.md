@@ -3,8 +3,9 @@ A lua script for ComputerCraft that rotates a 3D cube on a monitor.
 
 ## Installation
 Copy and paste the code from cubeRotate.lua OR run the following command:\
-\
-``` wget https://raw.githubusercontent.com/ddannyll/cubeRotate/main/cubeRotate.lua cubeRotate.lua```
+```shell
+wget https://raw.githubusercontent.com/ddannyll/cubeRotate/main/cubeRotate.lua cubeRotate.lua
+```
 
 ## Usage
 Ensure that you have at least a 2 x 2 monitor connected to the computer and run the following command:
